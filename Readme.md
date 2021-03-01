@@ -4,9 +4,11 @@ Setting now.
 I'll read all code of Express and comment for understanding it.
 This is MIT Licensed.
 
+On original comment,I add "*" at the head.
 
 
-  Fast, unopinionated, minimalist web framework for [node](http://nodejs.org).
+
+  [node](http://nodejs.org)で動く、素早く柔軟でミニマリストな web framework。
 
   [![NPM Version][npm-image]][npm-url]
   [![NPM Downloads][downloads-image]][downloads-url]
@@ -103,13 +105,10 @@ $ npm start
 
 ## Philosophy
 
-  The Express philosophy is to provide small, robust tooling for HTTP servers, making
-  it a great solution for single page applications, websites, hybrids, or public
-  HTTP APIs.
+  expressの哲学は小さく強健な、SPAやウェブサイトやハイブリッドやパブリックHTTPAPIを作る為のHTTPサーバーツールを提供する事だ。
 
-  Express does not force you to use any specific ORM or template engine. With support for over
-  14 template engines via [Consolidate.js](https://github.com/tj/consolidate.js),
-  you can quickly craft your perfect framework.
+  expressは特定のORMやテンプレートエンジンの使用を強制しない。14以上のテンプレートエンジンが[Consolidate.js](https://github.com/tj/consolidate.js)ごしに提供される。貴方は貴方のパーフェクトなフレームワークを素早く構築できる。
+
 
 ## Examples
 
